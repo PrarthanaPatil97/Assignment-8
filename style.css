@@ -1,0 +1,30 @@
+.hide{
+  display: none;
+}
+  
+.highlight{
+    background-color: yellow!important;
+  }
+
+  th{
+    /* border: 1px solid black!important; */
+  }
+
+  td{
+    /* border: 1px solid black!important; */
+  }
+
+  #search{
+   
+  }
+
+  #search:focus{
+    outline: none!important;
+    box-shadow: none;        
+  }
+
+  .button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+.button5 {background-color: #555555; color: white;} /* Black */
+
+
+  
